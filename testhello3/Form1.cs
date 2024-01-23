@@ -19,7 +19,7 @@ namespace testhello3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("2222222");
+            MessageBox.Show("testhello3");
         }
     }
 }
